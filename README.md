@@ -1,1 +1,3 @@
 # practical_example_02
+Cirlomaneanu Alexandru
+341C5
